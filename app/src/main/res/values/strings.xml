@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pretest</string>
+    <string name="editName">Contoh : Budi</string>
+    <string name="editAge">Contoh : 12</string>
+</resources>
